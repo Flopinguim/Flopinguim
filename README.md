@@ -10,6 +10,8 @@ Welcome to my profile! 👋
 🐧 Contact Me
 
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/)<br/>
+
+<a href = "https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/)"> <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
   
 <details>
   <summary>📊 Github stats</summary><br/>
