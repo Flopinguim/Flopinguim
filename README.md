@@ -1,4 +1,4 @@
-Welcome to my profile! 👋
+<h1>Welcome to my profile! 👋</h1>
 
 **I'm João Vitor** - I'm a Developer Junior and IT technician student. I'm interested in development, online communities and dicorver new technologies. I work on random projects in my free time!
 
