@@ -11,6 +11,6 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flopinguim&show_icons=true)</a>
+  <a href="#">![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Flopinguim&theme=github_dark&mode=weekly)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopinguim&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 </details>
