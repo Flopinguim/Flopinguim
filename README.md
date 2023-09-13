@@ -4,11 +4,9 @@
 ### 👨‍💻 Programming and markup languages
 
 <!-- Social icons section -->
-<p align="center">
   <a href="https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-</p>
-  [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
   
 <details>
   <summary>📊 Github stats</summary><br/>
