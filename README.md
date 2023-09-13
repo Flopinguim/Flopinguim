@@ -4,7 +4,7 @@
 ### 👨‍💻 Programming and markup languages
 
 <!-- Social icons section -->
-  <a href="https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
+  <a href="https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/"><[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
   
