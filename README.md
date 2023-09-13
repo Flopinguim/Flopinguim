@@ -9,7 +9,9 @@
 
 🐧 Contact Me
 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-vitor-damasceno-43b161164/)
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jv_dmasceno/)
+<br/>
   
 <details>
   <summary>📊 Github stats</summary><br/>
