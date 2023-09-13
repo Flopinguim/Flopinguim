@@ -1,4 +1,7 @@
-# Hey There! 👋
+<h1 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 **I'm João Vitor** - I'm a Developer Junior and IT technician student. I'm interested in development, online communities and dicorver new technologies. I work on random projects in my free time!
 
 ### 👨‍💻 Programming and markup languages
