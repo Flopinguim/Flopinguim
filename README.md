@@ -13,7 +13,7 @@ I am João Vitor 😃 Developer Junior and IT student. I'm interested in develop
 * IT student at UNIFOA
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, CSS**.
+- Front-end development using **HTML, CSS, WPF**.
 - Backend development using **.NET, C#**.
 - Making for **Relational Database Management Systems**.
 ## Hello World!! 🤔
